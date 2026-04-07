@@ -1,2 +1,4 @@
 Basic chat answer with olama, csv data
 https://github.com/techwithtim/LocalAIAgentWithRAG
+
+Olama Course: https://www.youtube.com/watch?v=GWB9ApTPTv4
