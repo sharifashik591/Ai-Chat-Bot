@@ -1,0 +1,2 @@
+Basic chat answer with olama, csv data
+https://github.com/techwithtim/LocalAIAgentWithRAG
